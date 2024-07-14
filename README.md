@@ -24,9 +24,9 @@ Run ```train_Sedihist.py```
 ### Test Sedihist
 Run ```test_Sedihist.py```
 ### paremeters setting
-Modify input data address in ```Prepare_Data.py``` line 76
-Modify output result address in ```Network_functions.py ```line 218
-Modify model saving address in ``` Network_functions.py``` line 124
+Modify input data address in ```Prepare_Data.py``` 
+Modify output result address in ```Network_functions.py ```
+Modify model saving address in ``` Network_functions.py``` 
 Modify window size and bin numbers in ```Demo_Parameters.py```
 
 
