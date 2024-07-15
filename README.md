@@ -9,7 +9,7 @@ Sedihist can be configured and trained to estimated the grain size corresponding
 
 You can use the models in this repository. or you can train Sedihist for your own purpose on you datasets.
 ## Instrallation Prerequisites
-This code uses python, pytorch, and barbar.Barbar is used to show the progress of model.
+This script utilizes Python, PyTorch, and Barbar. To download the necessary packages, please visit [PyTorch](https://pytorch.org/get-started/locally/). Barbar is employed to display the model's progress. Follow the instructions [Barbar](https://github.com/yusugomori/barbar)to download the module.
 
 ## Main Functions
 1. Intialize model
